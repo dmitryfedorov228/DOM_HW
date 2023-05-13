@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    
+    background: rgb(254,203,203);
+    background: radial-gradient(circle, rgba(254,203,203,1) 0%, rgba(114,179,255,1) 100%);
+
+}
+
+.form-check {
+    padding-left: 0;
+}

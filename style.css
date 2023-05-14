@@ -1,3 +1,10 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: white;
+    text-align: center;
+}
 body{
     margin: 0;
     
@@ -8,4 +15,25 @@ body{
 
 .form-check {
     padding-left: 0;
+}
+
+.form_btn{
+    margin: 50px 0;
+   
+
+}
+
+form{
+    padding-top: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+label{
+    padding-top: 20px;
+    
 }
